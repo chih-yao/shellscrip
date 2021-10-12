@@ -1,4 +1,6 @@
 Linux 主機收集以下資訊，提供惡意活動分析使用：(寫成shellscript)
+以下指令不全都是shell內容。
+指令來源參考:https://www.gushiciku.cn/pl/2KpY/zh-tw，在變化而成。
 
 
 一、檢查系統登陸日誌，統計IP重試登陸的次數。
